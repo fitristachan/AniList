@@ -1,0 +1,139 @@
+<resources>
+    <string name="app_name">AniList</string>
+
+    <string name="anime_title">Judul</string>
+    <string name="anime_synopsis">Sinopsis</string>
+    <string name="anime_score">Skor</string>
+    <string name="anime_popularity">Popularitas</string>
+    <string name="anime_ranked">Peringkat</string>
+    <string name="anime_episode">Total Episode</string>
+    <string name="anime_aired">Jadwal Tayang</string>
+    <string name="anime_status">Status</string>
+
+    <string-array name="data_title">
+        <item>Attack on Titan</item>
+        <item>Gakuen Babysitters</item>
+        <item>Jujutsu Kaisen</item>
+        <item>Kakuriyo no Yadomeshi</item>
+        <item>Demon Slayer: Kimetsu no Yaiba</item>
+        <item>Noragami</item>
+        <item>Your Lie in April</item>
+        <item>That Time I Got Reincarnated as a Slime</item>
+        <item>Himouto\! Umaru-chan</item>
+        <item>Violet Evergarden</item>
+        <item>Wotakoi: Love is Hard for Otaku</item>
+    </string-array>
+
+    <string-array name="data_synopsis">
+        <item>Serangan para Titan telah membuat umat manusia tersisa bertahan di dalam tembok raksasa. Eren Yeager bertekad membasmi para Titan setelah menyaksikan ibunya terbunuh. Bersama teman-temannya, mereka memulai pelatihan keras untuk menghadapi ancaman yang mengerikan tersebut.</item>
+        <item>Kehidupan Ryuichi tiba-tiba berubah ketika ia menjadi pengasuh di taman kanak-kanak yang dijalankan oleh sekolah tinggi. Setelah kehilangan orang tua mereka dalam kecelakaan pesawat, Ryuichi dan adiknya Kotaro diterima ke asrama tersebut, di mana Ryuichi harus merawat sejumlah anak kecil dan mengatasi tantangan unik yang datang dengan pekerjaan tersebut.</item>
+        <item>Yuji Itadori menemukan sebuah artefak kutukan dan tanpa sengaja mengeluarkan kekuatan jahat yang kuat. Dia terlibat dalam konflik antara Jujutsu Sorcerers dan makhluk-makhluk kutukan. Dengan tekadnya, Yuji memutuskan bergabung dengan sorcerer dan belajar Jujutsu untuk melawan ancaman yang mengancam umat manusia.</item>
+        <item>Aoi bekerja di penginapan yang dihuni oleh makhluk-makhluk gaib. Saat dia menolong seorang serigala siluman, dia terlibat dalam dunia paralel antara manusia dan roh-roh.</item>
+        <item>Tanjiro Kamado berjuang untuk membalas dendam pada iblis yang memusnahkan keluarganya dan mengubah adiknya menjadi iblis. Dia bergabung dengan Pasukan Pembasmi Iblis untuk memerangi kejahatan tersebut.</item>
+        <item>Yato adalah seorang dewa pengembara yang tidak memiliki kuil dan mencari pengakuan. Dia bertemu dengan Hiyori, seorang gadis yang memiliki masalah rohaniah setelah menyelamatkannya dari kecelakaan.</item>
+        <item>Kisah tragis tentang Kosei Arima, seorang pianis ajaib yang kehilangan kemampuan mendengar nada. Dia menemukan kembali hasratnya melalui teman masa kecilnya dan seorang violinis yang mengejutkan.</item>
+        <item>Satoru Mikami meninggal dan terlahir kembali sebagai Rimuru Tempest, seorang Slime dengan kemampuan unik. Dia mencari petualangan di dunia fantasi dengan tujuan menciptakan dunia yang lebih baik.</item>
+        <item>Taihei harus merawat adiknya yang manja, Umaru. Namun, ketika di rumah, Umaru berubah menjadi gadis manis yang suka bermain game dan menonton anime.</item>
+        <item>Violet Evergarden adalah seorang mantan tentara yang mencari arti di balik kata-kata "Aku mencintaimu" yang diucapkan oleh komandannya. Dalam perjalanannya sebagai penulis surat, dia belajar tentang emosi dan hubungan.</item>
+        <item>Narumi dan Hirotaka adalah teman masa kecil yang mengenal dunia otaku. Mereka menjalani hubungan romantis sambil menjaga rahasia hobi mereka dari teman-teman dan rekan kerja.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/aot</item>
+        <item>@drawable/gakuen_babysitter</item>
+        <item>@drawable/jujutsu_kaisen</item>
+        <item>@drawable/kakuriyo</item>
+        <item>@drawable/kny</item>
+        <item>@drawable/noragami</item>
+        <item>@drawable/shigatsu</item>
+        <item>@drawable/tensura</item>
+        <item>@drawable/umaru</item>
+        <item>@drawable/violet</item>
+        <item>@drawable/wotakoi</item>
+    </integer-array>
+
+    <string-array name="data_score">
+        <item>9.0</item>
+        <item>8.0</item>
+        <item>8.5</item>
+        <item>7.5</item>
+        <item>9.5</item>
+        <item>8.3</item>
+        <item>8.8</item>
+        <item>8.2</item>
+        <item>7.0</item>
+        <item>9.2</item>
+        <item>8.7</item>
+    </string-array>
+
+    <string-array name="data_popularity">
+        <item>15</item>
+        <item>248</item>
+        <item>2</item>
+        <item>1095</item>
+        <item>4</item>
+        <item>187</item>
+        <item>46</item>
+        <item>564</item>
+        <item>119</item>
+        <item>35</item>
+        <item>62</item>
+    </string-array>
+
+    <string-array name="data_ranked">
+        <item>209</item>
+        <item>5866</item>
+        <item>64</item>
+        <item>5344</item>
+        <item>4</item>
+        <item>381</item>
+        <item>116</item>
+        <item>1911</item>
+        <item>616</item>
+        <item>11</item>
+        <item>331</item>
+    </string-array>
+
+    <string-array name="data_episode">
+        <item>25</item>
+        <item>12</item>
+        <item>24</item>
+        <item>26</item>
+        <item>26</item>
+        <item>12</item>
+        <item>22</item>
+        <item>24</item>
+        <item>12</item>
+        <item>13</item>
+        <item>11</item>
+    </string-array>
+
+    <string-array name="data_aired">
+        <item>Apr 2013 - Sep 2013</item>
+        <item>Jan 2018 - Mar 2018</item>
+        <item>Oct 2020 - Mar 2021</item>
+        <item>Apr 2018 - Sep 2018</item>
+        <item>Apr 2019 - Sep 2019</item>
+        <item>Jan 2014 - Mar 2014</item>
+        <item>Oct 2014 - Mar 2015</item>
+        <item>Oct 2018 - Mar 2019</item>
+        <item>Jul 2015 - Sep 2015</item>
+        <item>Jan 2018 - Apr 2018</item>
+        <item>Apr 2018 - Jun 2018</item>
+    </string-array>
+
+    <string-array name="data_status">
+        <item>Finished Airing</item>
+        <item>Finished Airing</item>
+        <item>Finished Airing</item>
+        <item>Finished Airing</item>
+        <item>Finished Airing</item>
+        <item>Finished Airing</item>
+        <item>Finished Airing</item>
+        <item>Finished Airing</item>
+        <item>Finished Airing</item>
+        <item>Finished Airing</item>
+        <item>Finished Airing</item>
+    </string-array>
+
+</resources>
